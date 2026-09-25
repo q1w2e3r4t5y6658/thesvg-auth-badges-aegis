@@ -1,0 +1,3391 @@
+{
+  "uuid": "7201de57-0be0-4232-9c36-aa63c0c0222c",
+  "name": "theSVG Auth Badges (Full Color)",
+  "version": 1,
+  "icons": [
+    {
+      "name": "1Password",
+      "filename": "icons/1password.svg",
+      "category": "Services",
+      "issuer": [
+        "1password"
+      ]
+    },
+    {
+      "name": "500px",
+      "filename": "icons/500px.svg",
+      "category": "Services",
+      "issuer": [
+        "500px"
+      ]
+    },
+    {
+      "name": "Activision",
+      "filename": "icons/activision.svg",
+      "category": "Services",
+      "issuer": [
+        "activision"
+      ]
+    },
+    {
+      "name": "Adafruit",
+      "filename": "icons/adafruit.svg",
+      "category": "Services",
+      "issuer": [
+        "adafruit"
+      ]
+    },
+    {
+      "name": "addy.io",
+      "filename": "icons/addy-io.svg",
+      "category": "Services",
+      "issuer": [
+        "addy-io"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "filename": "icons/adguard.svg",
+      "category": "Services",
+      "issuer": [
+        "adguard"
+      ]
+    },
+    {
+      "name": "Airtable",
+      "filename": "icons/airtable.svg",
+      "category": "Services",
+      "issuer": [
+        "airtable"
+      ]
+    },
+    {
+      "name": "AirVPN",
+      "filename": "icons/airvpn.svg",
+      "category": "Services",
+      "issuer": [
+        "airvpn"
+      ]
+    },
+    {
+      "name": "Algolia",
+      "filename": "icons/algolia.svg",
+      "category": "Services",
+      "issuer": [
+        "algolia"
+      ]
+    },
+    {
+      "name": "Alibaba Cloud",
+      "filename": "icons/alibaba-cloud.svg",
+      "category": "Services",
+      "issuer": [
+        "alibaba-cloud"
+      ]
+    },
+    {
+      "name": "AList",
+      "filename": "icons/alist.svg",
+      "category": "Services",
+      "issuer": [
+        "alist"
+      ]
+    },
+    {
+      "name": "Allegro",
+      "filename": "icons/allegro.svg",
+      "category": "Services",
+      "issuer": [
+        "allegro"
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "filename": "icons/amazon-web-services.svg",
+      "category": "Services",
+      "issuer": [
+        "amazon-web-services"
+      ]
+    },
+    {
+      "name": "Amazon",
+      "filename": "icons/amazon.svg",
+      "category": "Services",
+      "issuer": [
+        "amazon"
+      ]
+    },
+    {
+      "name": "AnyDesk",
+      "filename": "icons/anydesk.svg",
+      "category": "Services",
+      "issuer": [
+        "anydesk"
+      ]
+    },
+    {
+      "name": "AOL",
+      "filename": "icons/aol.svg",
+      "category": "Services",
+      "issuer": [
+        "aol"
+      ]
+    },
+    {
+      "name": "Apigee",
+      "filename": "icons/apigee.svg",
+      "category": "Services",
+      "issuer": [
+        "apigee"
+      ]
+    },
+    {
+      "name": "Apple",
+      "filename": "icons/apple.svg",
+      "category": "Services",
+      "issuer": [
+        "apple"
+      ]
+    },
+    {
+      "name": "AppVeyor",
+      "filename": "icons/appveyor.svg",
+      "category": "Services",
+      "issuer": [
+        "appveyor"
+      ]
+    },
+    {
+      "name": "Arch Linux",
+      "filename": "icons/arch-linux.svg",
+      "category": "Services",
+      "issuer": [
+        "arch-linux"
+      ]
+    },
+    {
+      "name": "Arduino",
+      "filename": "icons/arduino.svg",
+      "category": "Services",
+      "issuer": [
+        "arduino"
+      ]
+    },
+    {
+      "name": "Asana",
+      "filename": "icons/asana.svg",
+      "category": "Services",
+      "issuer": [
+        "asana"
+      ]
+    },
+    {
+      "name": "Asustor",
+      "filename": "icons/asustor.svg",
+      "category": "Services",
+      "issuer": [
+        "asustor"
+      ]
+    },
+    {
+      "name": "Aternos",
+      "filename": "icons/aternos.svg",
+      "category": "Services",
+      "issuer": [
+        "aternos"
+      ]
+    },
+    {
+      "name": "Atlassian",
+      "filename": "icons/atlassian.svg",
+      "category": "Services",
+      "issuer": [
+        "atlassian"
+      ]
+    },
+    {
+      "name": "Auth0",
+      "filename": "icons/auth0.svg",
+      "category": "Services",
+      "issuer": [
+        "auth0"
+      ]
+    },
+    {
+      "name": "Authelia",
+      "filename": "icons/authelia.svg",
+      "category": "Services",
+      "issuer": [
+        "authelia"
+      ]
+    },
+    {
+      "name": "authentik",
+      "filename": "icons/authentik.svg",
+      "category": "Services",
+      "issuer": [
+        "authentik"
+      ]
+    },
+    {
+      "name": "Autodesk",
+      "filename": "icons/autodesk.svg",
+      "category": "Services",
+      "issuer": [
+        "autodesk"
+      ]
+    },
+    {
+      "name": "Avast",
+      "filename": "icons/avast.svg",
+      "category": "Services",
+      "issuer": [
+        "avast"
+      ]
+    },
+    {
+      "name": "Azure",
+      "filename": "icons/azure.svg",
+      "category": "Services",
+      "issuer": [
+        "azure"
+      ]
+    },
+    {
+      "name": "Backblaze",
+      "filename": "icons/backblaze.svg",
+      "category": "Services",
+      "issuer": [
+        "backblaze"
+      ]
+    },
+    {
+      "name": "balena",
+      "filename": "icons/balena.svg",
+      "category": "Services",
+      "issuer": [
+        "balena"
+      ]
+    },
+    {
+      "name": "Barmenia",
+      "filename": "icons/barmenia.svg",
+      "category": "Services",
+      "issuer": [
+        "barmenia"
+      ]
+    },
+    {
+      "name": "Basecamp",
+      "filename": "icons/basecamp.svg",
+      "category": "Services",
+      "issuer": [
+        "basecamp"
+      ]
+    },
+    {
+      "name": "Battle.net",
+      "filename": "icons/battle-net.svg",
+      "category": "Services",
+      "issuer": [
+        "battle-net"
+      ]
+    },
+    {
+      "name": "Best Buy",
+      "filename": "icons/best-buy.svg",
+      "category": "Services",
+      "issuer": [
+        "best-buy"
+      ]
+    },
+    {
+      "name": "Betfair",
+      "filename": "icons/betfair.svg",
+      "category": "Services",
+      "issuer": [
+        "betfair"
+      ]
+    },
+    {
+      "name": "Bethesda",
+      "filename": "icons/bethesda.svg",
+      "category": "Services",
+      "issuer": [
+        "bethesda"
+      ]
+    },
+    {
+      "name": "Bitbucket",
+      "filename": "icons/bitbucket.svg",
+      "category": "Services",
+      "issuer": [
+        "bitbucket"
+      ]
+    },
+    {
+      "name": "Bitdefender",
+      "filename": "icons/bitdefender.svg",
+      "category": "Services",
+      "issuer": [
+        "bitdefender"
+      ]
+    },
+    {
+      "name": "Bitrise",
+      "filename": "icons/bitrise.svg",
+      "category": "Services",
+      "issuer": [
+        "bitrise"
+      ]
+    },
+    {
+      "name": "Bitwarden",
+      "filename": "icons/bitwarden.svg",
+      "category": "Services",
+      "issuer": [
+        "bitwarden"
+      ]
+    },
+    {
+      "name": "Bohemia Interactive",
+      "filename": "icons/bohemia-interactive.svg",
+      "category": "Services",
+      "issuer": [
+        "bohemia-interactive"
+      ]
+    },
+    {
+      "name": "BookStack",
+      "filename": "icons/bookstack.svg",
+      "category": "Services",
+      "issuer": [
+        "bookstack"
+      ]
+    },
+    {
+      "name": "Box",
+      "filename": "icons/box.svg",
+      "category": "Services",
+      "issuer": [
+        "box"
+      ]
+    },
+    {
+      "name": "Brave",
+      "filename": "icons/brave.svg",
+      "category": "Services",
+      "issuer": [
+        "brave"
+      ]
+    },
+    {
+      "name": "Braze",
+      "filename": "icons/braze.svg",
+      "category": "Services",
+      "issuer": [
+        "braze"
+      ]
+    },
+    {
+      "name": "Brevo",
+      "filename": "icons/brevo.svg",
+      "category": "Services",
+      "issuer": [
+        "brevo"
+      ]
+    },
+    {
+      "name": "Buffer",
+      "filename": "icons/buffer.svg",
+      "category": "Services",
+      "issuer": [
+        "buffer"
+      ]
+    },
+    {
+      "name": "Bugcrowd",
+      "filename": "icons/bugcrowd.svg",
+      "category": "Services",
+      "issuer": [
+        "bugcrowd"
+      ]
+    },
+    {
+      "name": "Buhl",
+      "filename": "icons/buhl.svg",
+      "category": "Services",
+      "issuer": [
+        "buhl"
+      ]
+    },
+    {
+      "name": "BuiltByBit",
+      "filename": "icons/builtbybit.svg",
+      "category": "Services",
+      "issuer": [
+        "builtbybit"
+      ]
+    },
+    {
+      "name": "bunny.net",
+      "filename": "icons/bunny-net.svg",
+      "category": "Services",
+      "issuer": [
+        "bunny-net"
+      ]
+    },
+    {
+      "name": "Cal.com",
+      "filename": "icons/cal-com.svg",
+      "category": "Services",
+      "issuer": [
+        "cal-com"
+      ]
+    },
+    {
+      "name": "Cardmarket",
+      "filename": "icons/cardmarket.svg",
+      "category": "Services",
+      "issuer": [
+        "cardmarket"
+      ]
+    },
+    {
+      "name": "Carrd",
+      "filename": "icons/carrd.svg",
+      "category": "Services",
+      "issuer": [
+        "carrd"
+      ]
+    },
+    {
+      "name": "Cash App",
+      "filename": "icons/cash-app.svg",
+      "category": "Services",
+      "issuer": [
+        "cash-app"
+      ]
+    },
+    {
+      "name": "Cisco",
+      "filename": "icons/cisco.svg",
+      "category": "Services",
+      "issuer": [
+        "cisco"
+      ]
+    },
+    {
+      "name": "ClickUp",
+      "filename": "icons/clickup.svg",
+      "category": "Services",
+      "issuer": [
+        "clickup"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "filename": "icons/cloudflare.svg",
+      "category": "Services",
+      "issuer": [
+        "cloudflare"
+      ]
+    },
+    {
+      "name": "Cloudinary",
+      "filename": "icons/cloudinary.svg",
+      "category": "Services",
+      "issuer": [
+        "cloudinary"
+      ]
+    },
+    {
+      "name": "Cloudron",
+      "filename": "icons/cloudron.svg",
+      "category": "Services",
+      "issuer": [
+        "cloudron"
+      ]
+    },
+    {
+      "name": "Coda",
+      "filename": "icons/coda.svg",
+      "category": "Services",
+      "issuer": [
+        "coda"
+      ]
+    },
+    {
+      "name": "Codeberg",
+      "filename": "icons/codeberg.svg",
+      "category": "Services",
+      "issuer": [
+        "codeberg"
+      ]
+    },
+    {
+      "name": "CodeShip",
+      "filename": "icons/codeship.svg",
+      "category": "Services",
+      "issuer": [
+        "codeship"
+      ]
+    },
+    {
+      "name": "Contabo",
+      "filename": "icons/contabo.svg",
+      "category": "Services",
+      "issuer": [
+        "contabo"
+      ]
+    },
+    {
+      "name": "Control D",
+      "filename": "icons/control-d.svg",
+      "category": "Services",
+      "issuer": [
+        "control-d"
+      ]
+    },
+    {
+      "name": "cPanel",
+      "filename": "icons/cpanel.svg",
+      "category": "Services",
+      "issuer": [
+        "cpanel"
+      ]
+    },
+    {
+      "name": "Credly",
+      "filename": "icons/credly.svg",
+      "category": "Services",
+      "issuer": [
+        "credly"
+      ]
+    },
+    {
+      "name": "Crowdin",
+      "filename": "icons/crowdin.svg",
+      "category": "Services",
+      "issuer": [
+        "crowdin"
+      ]
+    },
+    {
+      "name": "CrowdSec",
+      "filename": "icons/crowdsec.svg",
+      "category": "Services",
+      "issuer": [
+        "crowdsec"
+      ]
+    },
+    {
+      "name": "CrowdStrike",
+      "filename": "icons/crowdstrike.svg",
+      "category": "Services",
+      "issuer": [
+        "crowdstrike"
+      ]
+    },
+    {
+      "name": "CurseForge",
+      "filename": "icons/curseforge.svg",
+      "category": "Services",
+      "issuer": [
+        "curseforge"
+      ]
+    },
+    {
+      "name": "Dashlane",
+      "filename": "icons/dashlane.svg",
+      "category": "Services",
+      "issuer": [
+        "dashlane"
+      ]
+    },
+    {
+      "name": "Datev",
+      "filename": "icons/datev.svg",
+      "category": "Services",
+      "issuer": [
+        "datev"
+      ]
+    },
+    {
+      "name": "diaspora",
+      "filename": "icons/diaspora.svg",
+      "category": "Services",
+      "issuer": [
+        "diaspora"
+      ]
+    },
+    {
+      "name": "DigitalOcean",
+      "filename": "icons/digitalocean.svg",
+      "category": "Services",
+      "issuer": [
+        "digitalocean"
+      ]
+    },
+    {
+      "name": "DirectAdmin",
+      "filename": "icons/directadmin.svg",
+      "category": "Services",
+      "issuer": [
+        "directadmin"
+      ]
+    },
+    {
+      "name": "Directus",
+      "filename": "icons/directus.svg",
+      "category": "Services",
+      "issuer": [
+        "directus"
+      ]
+    },
+    {
+      "name": "Discogs",
+      "filename": "icons/discogs.svg",
+      "category": "Services",
+      "issuer": [
+        "discogs"
+      ]
+    },
+    {
+      "name": "Discord",
+      "filename": "icons/discord.svg",
+      "category": "Services",
+      "issuer": [
+        "discord"
+      ]
+    },
+    {
+      "name": "Discourse",
+      "filename": "icons/discourse.svg",
+      "category": "Services",
+      "issuer": [
+        "discourse"
+      ]
+    },
+    {
+      "name": "Disroot",
+      "filename": "icons/disroot.svg",
+      "category": "Services",
+      "issuer": [
+        "disroot"
+      ]
+    },
+    {
+      "name": "Docker",
+      "filename": "icons/docker.svg",
+      "category": "Services",
+      "issuer": [
+        "docker"
+      ]
+    },
+    {
+      "name": "DocuSign",
+      "filename": "icons/docusign.svg",
+      "category": "Services",
+      "issuer": [
+        "docusign"
+      ]
+    },
+    {
+      "name": "DreamFactory",
+      "filename": "icons/dreamfactory.svg",
+      "category": "Services",
+      "issuer": [
+        "dreamfactory"
+      ]
+    },
+    {
+      "name": "Dreamhost",
+      "filename": "icons/dreamhost.svg",
+      "category": "Services",
+      "issuer": [
+        "dreamhost"
+      ]
+    },
+    {
+      "name": "Dropbox",
+      "filename": "icons/dropbox.svg",
+      "category": "Services",
+      "issuer": [
+        "dropbox"
+      ]
+    },
+    {
+      "name": "Drupal",
+      "filename": "icons/drupal.svg",
+      "category": "Services",
+      "issuer": [
+        "drupal"
+      ]
+    },
+    {
+      "name": "eBay",
+      "filename": "icons/ebay.svg",
+      "category": "Services",
+      "issuer": [
+        "ebay"
+      ]
+    },
+    {
+      "name": "Elastic",
+      "filename": "icons/elastic.svg",
+      "category": "Services",
+      "issuer": [
+        "elastic"
+      ]
+    },
+    {
+      "name": "Electronic Arts",
+      "filename": "icons/electronic-arts.svg",
+      "category": "Services",
+      "issuer": [
+        "electronic-arts"
+      ]
+    },
+    {
+      "name": "ente",
+      "filename": "icons/ente.svg",
+      "category": "Services",
+      "issuer": [
+        "ente"
+      ]
+    },
+    {
+      "name": "Envato",
+      "filename": "icons/envato.svg",
+      "category": "Services",
+      "issuer": [
+        "envato"
+      ]
+    },
+    {
+      "name": "Epic Games",
+      "filename": "icons/epic-games.svg",
+      "category": "Services",
+      "issuer": [
+        "epic-games"
+      ]
+    },
+    {
+      "name": "ESEA",
+      "filename": "icons/esea.svg",
+      "category": "Services",
+      "issuer": [
+        "esea"
+      ]
+    },
+    {
+      "name": "Etsy",
+      "filename": "icons/etsy.svg",
+      "category": "Services",
+      "issuer": [
+        "etsy"
+      ]
+    },
+    {
+      "name": "Evernote",
+      "filename": "icons/evernote.svg",
+      "category": "Services",
+      "issuer": [
+        "evernote"
+      ]
+    },
+    {
+      "name": "Exoscale",
+      "filename": "icons/exoscale.svg",
+      "category": "Services",
+      "issuer": [
+        "exoscale"
+      ]
+    },
+    {
+      "name": "Expo",
+      "filename": "icons/expo.svg",
+      "category": "Services",
+      "issuer": [
+        "expo"
+      ]
+    },
+    {
+      "name": "ExpressVPN",
+      "filename": "icons/expressvpn.svg",
+      "category": "Services",
+      "issuer": [
+        "expressvpn"
+      ]
+    },
+    {
+      "name": "Facebook",
+      "filename": "icons/facebook.svg",
+      "category": "Services",
+      "issuer": [
+        "facebook"
+      ]
+    },
+    {
+      "name": "FACEIT",
+      "filename": "icons/faceit.svg",
+      "category": "Services",
+      "issuer": [
+        "faceit"
+      ]
+    },
+    {
+      "name": "Fandom",
+      "filename": "icons/fandom.svg",
+      "category": "Services",
+      "issuer": [
+        "fandom"
+      ]
+    },
+    {
+      "name": "FanDuel",
+      "filename": "icons/fanduel.svg",
+      "category": "Services",
+      "issuer": [
+        "fanduel"
+      ]
+    },
+    {
+      "name": "Fastly",
+      "filename": "icons/fastly.svg",
+      "category": "Services",
+      "issuer": [
+        "fastly"
+      ]
+    },
+    {
+      "name": "Fastmail",
+      "filename": "icons/fastmail.svg",
+      "category": "Services",
+      "issuer": [
+        "fastmail"
+      ]
+    },
+    {
+      "name": "Fauna",
+      "filename": "icons/fauna.svg",
+      "category": "Services",
+      "issuer": [
+        "fauna"
+      ]
+    },
+    {
+      "name": "Fedora",
+      "filename": "icons/fedora.svg",
+      "category": "Services",
+      "issuer": [
+        "fedora"
+      ]
+    },
+    {
+      "name": "Figma",
+      "filename": "icons/figma.svg",
+      "category": "Services",
+      "issuer": [
+        "figma"
+      ]
+    },
+    {
+      "name": "Filen",
+      "filename": "icons/filen.svg",
+      "category": "Services",
+      "issuer": [
+        "filen"
+      ]
+    },
+    {
+      "name": "Files.com",
+      "filename": "icons/files-com.svg",
+      "category": "Services",
+      "issuer": [
+        "files-com"
+      ]
+    },
+    {
+      "name": "Firefly III",
+      "filename": "icons/firefly-iii.svg",
+      "category": "Services",
+      "issuer": [
+        "firefly-iii"
+      ]
+    },
+    {
+      "name": "Floatplane",
+      "filename": "icons/floatplane.svg",
+      "category": "Services",
+      "issuer": [
+        "floatplane"
+      ]
+    },
+    {
+      "name": "Flourish",
+      "filename": "icons/flourish.svg",
+      "category": "Services",
+      "issuer": [
+        "flourish"
+      ]
+    },
+    {
+      "name": "Fluxer",
+      "filename": "icons/fluxer.svg",
+      "category": "Services",
+      "issuer": [
+        "fluxer"
+      ]
+    },
+    {
+      "name": "Fly.io",
+      "filename": "icons/fly-io.svg",
+      "category": "Services",
+      "issuer": [
+        "fly-io"
+      ]
+    },
+    {
+      "name": "Formspree",
+      "filename": "icons/formspree.svg",
+      "category": "Services",
+      "issuer": [
+        "formspree"
+      ]
+    },
+    {
+      "name": "Fortinet",
+      "filename": "icons/fortinet.svg",
+      "category": "Services",
+      "issuer": [
+        "fortinet"
+      ]
+    },
+    {
+      "name": "Friendica",
+      "filename": "icons/friendica.svg",
+      "category": "Services",
+      "issuer": [
+        "friendica"
+      ]
+    },
+    {
+      "name": "FRITZ!",
+      "filename": "icons/fritz.svg",
+      "category": "Services",
+      "issuer": [
+        "fritz"
+      ]
+    },
+    {
+      "name": "G2A",
+      "filename": "icons/g2a.svg",
+      "category": "Services",
+      "issuer": [
+        "g2a"
+      ]
+    },
+    {
+      "name": "GameBanana",
+      "filename": "icons/gamebanana.svg",
+      "category": "Services",
+      "issuer": [
+        "gamebanana"
+      ]
+    },
+    {
+      "name": "Gandi",
+      "filename": "icons/gandi.svg",
+      "category": "Services",
+      "issuer": [
+        "gandi"
+      ]
+    },
+    {
+      "name": "Gatsby",
+      "filename": "icons/gatsby.svg",
+      "category": "Services",
+      "issuer": [
+        "gatsby"
+      ]
+    },
+    {
+      "name": "Gemini",
+      "filename": "icons/gemini.svg",
+      "category": "Services",
+      "issuer": [
+        "gemini"
+      ]
+    },
+    {
+      "name": "Gitea",
+      "filename": "icons/gitea.svg",
+      "category": "Services",
+      "issuer": [
+        "gitea"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "filename": "icons/github.svg",
+      "category": "Services",
+      "issuer": [
+        "github"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "filename": "icons/gitlab.svg",
+      "category": "Services",
+      "issuer": [
+        "gitlab"
+      ]
+    },
+    {
+      "name": "Glassdoor",
+      "filename": "icons/glassdoor.svg",
+      "category": "Services",
+      "issuer": [
+        "glassdoor"
+      ]
+    },
+    {
+      "name": "GMX",
+      "filename": "icons/gmx.svg",
+      "category": "Services",
+      "issuer": [
+        "gmx"
+      ]
+    },
+    {
+      "name": "GNS3",
+      "filename": "icons/gns3.svg",
+      "category": "Services",
+      "issuer": [
+        "gns3"
+      ]
+    },
+    {
+      "name": "GoatCounter",
+      "filename": "icons/goatcounter.svg",
+      "category": "Services",
+      "issuer": [
+        "goatcounter"
+      ]
+    },
+    {
+      "name": "GoDaddy",
+      "filename": "icons/godaddy.svg",
+      "category": "Services",
+      "issuer": [
+        "godaddy"
+      ]
+    },
+    {
+      "name": "GOG.com",
+      "filename": "icons/gog-com.svg",
+      "category": "Services",
+      "issuer": [
+        "gog-com"
+      ]
+    },
+    {
+      "name": "Google",
+      "filename": "icons/google.svg",
+      "category": "Services",
+      "issuer": [
+        "google"
+      ]
+    },
+    {
+      "name": "Grammarly",
+      "filename": "icons/grammarly.svg",
+      "category": "Services",
+      "issuer": [
+        "grammarly"
+      ]
+    },
+    {
+      "name": "Grav",
+      "filename": "icons/grav.svg",
+      "category": "Services",
+      "issuer": [
+        "grav"
+      ]
+    },
+    {
+      "name": "Grist",
+      "filename": "icons/grist.svg",
+      "category": "Services",
+      "issuer": [
+        "grist"
+      ]
+    },
+    {
+      "name": "Guilded",
+      "filename": "icons/guilded.svg",
+      "category": "Services",
+      "issuer": [
+        "guilded"
+      ]
+    },
+    {
+      "name": "Gumroad",
+      "filename": "icons/gumroad.svg",
+      "category": "Services",
+      "issuer": [
+        "gumroad"
+      ]
+    },
+    {
+      "name": "Gusto",
+      "filename": "icons/gusto.svg",
+      "category": "Services",
+      "issuer": [
+        "gusto"
+      ]
+    },
+    {
+      "name": "Hack The Box",
+      "filename": "icons/hack-the-box.svg",
+      "category": "Services",
+      "issuer": [
+        "hack-the-box"
+      ]
+    },
+    {
+      "name": "HackerOne",
+      "filename": "icons/hackerone.svg",
+      "category": "Services",
+      "issuer": [
+        "hackerone"
+      ]
+    },
+    {
+      "name": "Handshake",
+      "filename": "icons/handshake.svg",
+      "category": "Services",
+      "issuer": [
+        "handshake"
+      ]
+    },
+    {
+      "name": "HashiCorp",
+      "filename": "icons/hashicorp.svg",
+      "category": "Services",
+      "issuer": [
+        "hashicorp"
+      ]
+    },
+    {
+      "name": "Hauk",
+      "filename": "icons/hauk.svg",
+      "category": "Services",
+      "issuer": [
+        "hauk"
+      ]
+    },
+    {
+      "name": "Healthchecks",
+      "filename": "icons/healthchecks.svg",
+      "category": "Services",
+      "issuer": [
+        "healthchecks"
+      ]
+    },
+    {
+      "name": "Heroku",
+      "filename": "icons/heroku.svg",
+      "category": "Services",
+      "issuer": [
+        "heroku"
+      ]
+    },
+    {
+      "name": "Hetzner",
+      "filename": "icons/hetzner.svg",
+      "category": "Services",
+      "issuer": [
+        "hetzner"
+      ]
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "filename": "icons/hewlett-packard-enterprise.svg",
+      "category": "Services",
+      "issuer": [
+        "hewlett-packard-enterprise"
+      ]
+    },
+    {
+      "name": "HEY",
+      "filename": "icons/hey.svg",
+      "category": "Services",
+      "issuer": [
+        "hey"
+      ]
+    },
+    {
+      "name": "Home Assistant",
+      "filename": "icons/home-assistant.svg",
+      "category": "Services",
+      "issuer": [
+        "home-assistant"
+      ]
+    },
+    {
+      "name": "Homey",
+      "filename": "icons/homey.svg",
+      "category": "Services",
+      "issuer": [
+        "homey"
+      ]
+    },
+    {
+      "name": "Hostinger",
+      "filename": "icons/hostinger.svg",
+      "category": "Services",
+      "issuer": [
+        "hostinger"
+      ]
+    },
+    {
+      "name": "HP",
+      "filename": "icons/hp.svg",
+      "category": "Services",
+      "issuer": [
+        "hp"
+      ]
+    },
+    {
+      "name": "Huawei",
+      "filename": "icons/huawei.svg",
+      "category": "Services",
+      "issuer": [
+        "huawei"
+      ]
+    },
+    {
+      "name": "Hubspot",
+      "filename": "icons/hubspot.svg",
+      "category": "Services",
+      "issuer": [
+        "hubspot"
+      ]
+    },
+    {
+      "name": "Humble Bundle",
+      "filename": "icons/humble-bundle.svg",
+      "category": "Services",
+      "issuer": [
+        "humble-bundle"
+      ]
+    },
+    {
+      "name": "IBM",
+      "filename": "icons/ibm.svg",
+      "category": "Services",
+      "issuer": [
+        "ibm"
+      ]
+    },
+    {
+      "name": "IFTTT",
+      "filename": "icons/ifttt.svg",
+      "category": "Services",
+      "issuer": [
+        "ifttt"
+      ]
+    },
+    {
+      "name": "IGN",
+      "filename": "icons/ign.svg",
+      "category": "Services",
+      "issuer": [
+        "ign"
+      ]
+    },
+    {
+      "name": "ImprovMX",
+      "filename": "icons/improvmx.svg",
+      "category": "Services",
+      "issuer": [
+        "improvmx"
+      ]
+    },
+    {
+      "name": "Indeed",
+      "filename": "icons/indeed.svg",
+      "category": "Services",
+      "issuer": [
+        "indeed"
+      ]
+    },
+    {
+      "name": "Infomaniak",
+      "filename": "icons/infomaniak.svg",
+      "category": "Services",
+      "issuer": [
+        "infomaniak"
+      ]
+    },
+    {
+      "name": "Instagram",
+      "filename": "icons/instagram.svg",
+      "category": "Services",
+      "issuer": [
+        "instagram"
+      ]
+    },
+    {
+      "name": "Intuit",
+      "filename": "icons/intuit.svg",
+      "category": "Services",
+      "issuer": [
+        "intuit"
+      ]
+    },
+    {
+      "name": "Invision Community",
+      "filename": "icons/invision-community.svg",
+      "category": "Services",
+      "issuer": [
+        "invision-community"
+      ]
+    },
+    {
+      "name": "Invoice Ninja",
+      "filename": "icons/invoice-ninja.svg",
+      "category": "Services",
+      "issuer": [
+        "invoice-ninja"
+      ]
+    },
+    {
+      "name": "IONOS",
+      "filename": "icons/ionos.svg",
+      "category": "Services",
+      "issuer": [
+        "ionos"
+      ]
+    },
+    {
+      "name": "(ISC)2",
+      "filename": "icons/isc-2.svg",
+      "category": "Services",
+      "issuer": [
+        "isc-2"
+      ]
+    },
+    {
+      "name": "itch.io",
+      "filename": "icons/itch-io.svg",
+      "category": "Services",
+      "issuer": [
+        "itch-io"
+      ]
+    },
+    {
+      "name": "JetBrains",
+      "filename": "icons/jetbrains.svg",
+      "category": "Services",
+      "issuer": [
+        "jetbrains"
+      ]
+    },
+    {
+      "name": "JFrog",
+      "filename": "icons/jfrog.svg",
+      "category": "Services",
+      "issuer": [
+        "jfrog"
+      ]
+    },
+    {
+      "name": "Joomla",
+      "filename": "icons/joomla.svg",
+      "category": "Services",
+      "issuer": [
+        "joomla"
+      ]
+    },
+    {
+      "name": "Kaspersky",
+      "filename": "icons/kaspersky.svg",
+      "category": "Services",
+      "issuer": [
+        "kaspersky"
+      ]
+    },
+    {
+      "name": "KDE",
+      "filename": "icons/kde.svg",
+      "category": "Services",
+      "issuer": [
+        "kde"
+      ]
+    },
+    {
+      "name": "Keenetic",
+      "filename": "icons/keenetic.svg",
+      "category": "Services",
+      "issuer": [
+        "keenetic"
+      ]
+    },
+    {
+      "name": "Keeper",
+      "filename": "icons/keeper.svg",
+      "category": "Services",
+      "issuer": [
+        "keeper"
+      ]
+    },
+    {
+      "name": "Kerberos.io",
+      "filename": "icons/kerberos-io.svg",
+      "category": "Services",
+      "issuer": [
+        "kerberos-io"
+      ]
+    },
+    {
+      "name": "Keycloak",
+      "filename": "icons/keycloak.svg",
+      "category": "Services",
+      "issuer": [
+        "keycloak"
+      ]
+    },
+    {
+      "name": "Kickstarter",
+      "filename": "icons/kickstarter.svg",
+      "category": "Services",
+      "issuer": [
+        "kickstarter"
+      ]
+    },
+    {
+      "name": "KLM",
+      "filename": "icons/klm.svg",
+      "category": "Services",
+      "issuer": [
+        "klm"
+      ]
+    },
+    {
+      "name": "KnowBe4",
+      "filename": "icons/knowbe4.svg",
+      "category": "Services",
+      "issuer": [
+        "knowbe4"
+      ]
+    },
+    {
+      "name": "Ko-fi",
+      "filename": "icons/ko-fi.svg",
+      "category": "Services",
+      "issuer": [
+        "ko-fi"
+      ]
+    },
+    {
+      "name": "La Poste",
+      "filename": "icons/la-poste.svg",
+      "category": "Services",
+      "issuer": [
+        "la-poste"
+      ]
+    },
+    {
+      "name": "Lark",
+      "filename": "icons/lark.svg",
+      "category": "Services",
+      "issuer": [
+        "lark"
+      ]
+    },
+    {
+      "name": "LastPass",
+      "filename": "icons/lastpass.svg",
+      "category": "Services",
+      "issuer": [
+        "lastpass"
+      ]
+    },
+    {
+      "name": "Leantime",
+      "filename": "icons/leantime.svg",
+      "category": "Services",
+      "issuer": [
+        "leantime"
+      ]
+    },
+    {
+      "name": "Lemmy",
+      "filename": "icons/lemmy.svg",
+      "category": "Services",
+      "issuer": [
+        "lemmy"
+      ]
+    },
+    {
+      "name": "Lenovo",
+      "filename": "icons/lenovo.svg",
+      "category": "Services",
+      "issuer": [
+        "lenovo"
+      ]
+    },
+    {
+      "name": "LibreNMS",
+      "filename": "icons/librenms.svg",
+      "category": "Services",
+      "issuer": [
+        "librenms"
+      ]
+    },
+    {
+      "name": "Lichess",
+      "filename": "icons/lichess.svg",
+      "category": "Services",
+      "issuer": [
+        "lichess"
+      ]
+    },
+    {
+      "name": "LimeSurvey",
+      "filename": "icons/limesurvey.svg",
+      "category": "Services",
+      "issuer": [
+        "limesurvey"
+      ]
+    },
+    {
+      "name": "LinkAce",
+      "filename": "icons/linkace.svg",
+      "category": "Services",
+      "issuer": [
+        "linkace"
+      ]
+    },
+    {
+      "name": "Linkedin",
+      "filename": "icons/linkedin.svg",
+      "category": "Services",
+      "issuer": [
+        "linkedin"
+      ]
+    },
+    {
+      "name": "Logitech",
+      "filename": "icons/logitech.svg",
+      "category": "Services",
+      "issuer": [
+        "logitech"
+      ]
+    },
+    {
+      "name": "Logto",
+      "filename": "icons/logto.svg",
+      "category": "Services",
+      "issuer": [
+        "logto"
+      ]
+    },
+    {
+      "name": "Luogu",
+      "filename": "icons/luogu.svg",
+      "category": "Services",
+      "issuer": [
+        "luogu"
+      ]
+    },
+    {
+      "name": "Magento",
+      "filename": "icons/magento.svg",
+      "category": "Services",
+      "issuer": [
+        "magento"
+      ]
+    },
+    {
+      "name": "mail.com",
+      "filename": "icons/mail-com.svg",
+      "category": "Services",
+      "issuer": [
+        "mail-com"
+      ]
+    },
+    {
+      "name": "Mailchimp",
+      "filename": "icons/mailchimp.svg",
+      "category": "Services",
+      "issuer": [
+        "mailchimp"
+      ]
+    },
+    {
+      "name": "Mailcow",
+      "filename": "icons/mailcow.svg",
+      "category": "Services",
+      "issuer": [
+        "mailcow"
+      ]
+    },
+    {
+      "name": "Mailfence",
+      "filename": "icons/mailfence.svg",
+      "category": "Services",
+      "issuer": [
+        "mailfence"
+      ]
+    },
+    {
+      "name": "Mailgun",
+      "filename": "icons/mailgun.svg",
+      "category": "Services",
+      "issuer": [
+        "mailgun"
+      ]
+    },
+    {
+      "name": "Manjaro",
+      "filename": "icons/manjaro.svg",
+      "category": "Services",
+      "issuer": [
+        "manjaro"
+      ]
+    },
+    {
+      "name": "Mapbox",
+      "filename": "icons/mapbox.svg",
+      "category": "Services",
+      "issuer": [
+        "mapbox"
+      ]
+    },
+    {
+      "name": "Mastodon",
+      "filename": "icons/mastodon.svg",
+      "category": "Services",
+      "issuer": [
+        "mastodon"
+      ]
+    },
+    {
+      "name": "Matomo",
+      "filename": "icons/matomo.svg",
+      "category": "Services",
+      "issuer": [
+        "matomo"
+      ]
+    },
+    {
+      "name": "Mattermost",
+      "filename": "icons/mattermost.svg",
+      "category": "Services",
+      "issuer": [
+        "mattermost"
+      ]
+    },
+    {
+      "name": "MediaWiki",
+      "filename": "icons/mediawiki.svg",
+      "category": "Services",
+      "issuer": [
+        "mediawiki"
+      ]
+    },
+    {
+      "name": "MEGA",
+      "filename": "icons/mega.svg",
+      "category": "Services",
+      "issuer": [
+        "mega"
+      ]
+    },
+    {
+      "name": "Mercado Libre",
+      "filename": "icons/mercado-libre.svg",
+      "category": "Services",
+      "issuer": [
+        "mercado-libre"
+      ]
+    },
+    {
+      "name": "Meta",
+      "filename": "icons/meta.svg",
+      "category": "Services",
+      "issuer": [
+        "meta"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "filename": "icons/microsoft.svg",
+      "category": "Services",
+      "issuer": [
+        "microsoft"
+      ]
+    },
+    {
+      "name": "Migadu",
+      "filename": "icons/migadu.svg",
+      "category": "Services",
+      "issuer": [
+        "migadu"
+      ]
+    },
+    {
+      "name": "Mint Mobile",
+      "filename": "icons/mint-mobile.svg",
+      "category": "Services",
+      "issuer": [
+        "mint-mobile"
+      ]
+    },
+    {
+      "name": "Misskey",
+      "filename": "icons/misskey.svg",
+      "category": "Services",
+      "issuer": [
+        "misskey"
+      ]
+    },
+    {
+      "name": "Mistral",
+      "filename": "icons/mistral.svg",
+      "category": "Services",
+      "issuer": [
+        "mistral"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "filename": "icons/mongodb.svg",
+      "category": "Services",
+      "issuer": [
+        "mongodb"
+      ]
+    },
+    {
+      "name": "Moodle",
+      "filename": "icons/moodle.svg",
+      "category": "Services",
+      "issuer": [
+        "moodle"
+      ]
+    },
+    {
+      "name": "Mozilla",
+      "filename": "icons/mozilla.svg",
+      "category": "Services",
+      "issuer": [
+        "mozilla"
+      ]
+    },
+    {
+      "name": "MXroute",
+      "filename": "icons/mxroute.svg",
+      "category": "Services",
+      "issuer": [
+        "mxroute"
+      ]
+    },
+    {
+      "name": "MyAnimeList",
+      "filename": "icons/myanimelist.svg",
+      "category": "Services",
+      "issuer": [
+        "myanimelist"
+      ]
+    },
+    {
+      "name": "Namebase",
+      "filename": "icons/namebase.svg",
+      "category": "Services",
+      "issuer": [
+        "namebase"
+      ]
+    },
+    {
+      "name": "Namecheap",
+      "filename": "icons/namecheap.svg",
+      "category": "Services",
+      "issuer": [
+        "namecheap"
+      ]
+    },
+    {
+      "name": "NameSilo",
+      "filename": "icons/namesilo.svg",
+      "category": "Services",
+      "issuer": [
+        "namesilo"
+      ]
+    },
+    {
+      "name": "NAVER",
+      "filename": "icons/naver.svg",
+      "category": "Services",
+      "issuer": [
+        "naver"
+      ]
+    },
+    {
+      "name": "Neos",
+      "filename": "icons/neos.svg",
+      "category": "Services",
+      "issuer": [
+        "neos"
+      ]
+    },
+    {
+      "name": "NetBird",
+      "filename": "icons/netbird.svg",
+      "category": "Services",
+      "issuer": [
+        "netbird"
+      ]
+    },
+    {
+      "name": "netcup",
+      "filename": "icons/netcup.svg",
+      "category": "Services",
+      "issuer": [
+        "netcup"
+      ]
+    },
+    {
+      "name": "Netim",
+      "filename": "icons/netim.svg",
+      "category": "Services",
+      "issuer": [
+        "netim"
+      ]
+    },
+    {
+      "name": "Netlify",
+      "filename": "icons/netlify.svg",
+      "category": "Services",
+      "issuer": [
+        "netlify"
+      ]
+    },
+    {
+      "name": "Newegg",
+      "filename": "icons/newegg.svg",
+      "category": "Services",
+      "issuer": [
+        "newegg"
+      ]
+    },
+    {
+      "name": "Newgrounds",
+      "filename": "icons/newgrounds.svg",
+      "category": "Services",
+      "issuer": [
+        "newgrounds"
+      ]
+    },
+    {
+      "name": "Nexon",
+      "filename": "icons/nexon.svg",
+      "category": "Services",
+      "issuer": [
+        "nexon"
+      ]
+    },
+    {
+      "name": "Nextcloud",
+      "filename": "icons/nextcloud.svg",
+      "category": "Services",
+      "issuer": [
+        "nextcloud"
+      ]
+    },
+    {
+      "name": "NextDNS",
+      "filename": "icons/nextdns.svg",
+      "category": "Services",
+      "issuer": [
+        "nextdns"
+      ]
+    },
+    {
+      "name": "niconico",
+      "filename": "icons/niconico.svg",
+      "category": "Services",
+      "issuer": [
+        "niconico"
+      ]
+    },
+    {
+      "name": "Nintendo",
+      "filename": "icons/nintendo.svg",
+      "category": "Services",
+      "issuer": [
+        "nintendo"
+      ]
+    },
+    {
+      "name": "Njalla",
+      "filename": "icons/njalla.svg",
+      "category": "Services",
+      "issuer": [
+        "njalla"
+      ]
+    },
+    {
+      "name": "No-IP",
+      "filename": "icons/no-ip.svg",
+      "category": "Services",
+      "issuer": [
+        "no-ip"
+      ]
+    },
+    {
+      "name": "NordVPN",
+      "filename": "icons/nordvpn.svg",
+      "category": "Services",
+      "issuer": [
+        "nordvpn"
+      ]
+    },
+    {
+      "name": "Norton",
+      "filename": "icons/norton.svg",
+      "category": "Services",
+      "issuer": [
+        "norton"
+      ]
+    },
+    {
+      "name": "Notesnook",
+      "filename": "icons/notesnook.svg",
+      "category": "Services",
+      "issuer": [
+        "notesnook"
+      ]
+    },
+    {
+      "name": "Notion",
+      "filename": "icons/notion.svg",
+      "category": "Services",
+      "issuer": [
+        "notion"
+      ]
+    },
+    {
+      "name": "NPM",
+      "filename": "icons/npm.svg",
+      "category": "Services",
+      "issuer": [
+        "npm"
+      ]
+    },
+    {
+      "name": "Nuki",
+      "filename": "icons/nuki.svg",
+      "category": "Services",
+      "issuer": [
+        "nuki"
+      ]
+    },
+    {
+      "name": "Nvidia",
+      "filename": "icons/nvidia.svg",
+      "category": "Services",
+      "issuer": [
+        "nvidia"
+      ]
+    },
+    {
+      "name": "Obsidian",
+      "filename": "icons/obsidian.svg",
+      "category": "Services",
+      "issuer": [
+        "obsidian"
+      ]
+    },
+    {
+      "name": "Odido",
+      "filename": "icons/odido.svg",
+      "category": "Services",
+      "issuer": [
+        "odido"
+      ]
+    },
+    {
+      "name": "Okta",
+      "filename": "icons/okta.svg",
+      "category": "Services",
+      "issuer": [
+        "okta"
+      ]
+    },
+    {
+      "name": "OKX",
+      "filename": "icons/okx.svg",
+      "category": "Services",
+      "issuer": [
+        "okx"
+      ]
+    },
+    {
+      "name": "OneSignal",
+      "filename": "icons/onesignal.svg",
+      "category": "Services",
+      "issuer": [
+        "onesignal"
+      ]
+    },
+    {
+      "name": "OnlyFans",
+      "filename": "icons/onlyfans.svg",
+      "category": "Services",
+      "issuer": [
+        "onlyfans"
+      ]
+    },
+    {
+      "name": "ONLYOFFICE",
+      "filename": "icons/onlyoffice.svg",
+      "category": "Services",
+      "issuer": [
+        "onlyoffice"
+      ]
+    },
+    {
+      "name": "Onshape",
+      "filename": "icons/onshape.svg",
+      "category": "Services",
+      "issuer": [
+        "onshape"
+      ]
+    },
+    {
+      "name": "Open Collective",
+      "filename": "icons/open-collective.svg",
+      "category": "Services",
+      "issuer": [
+        "open-collective"
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "filename": "icons/openai.svg",
+      "category": "Services",
+      "issuer": [
+        "openai"
+      ]
+    },
+    {
+      "name": "OpenList",
+      "filename": "icons/openlist.svg",
+      "category": "Services",
+      "issuer": [
+        "openlist"
+      ]
+    },
+    {
+      "name": "OpenVPN",
+      "filename": "icons/openvpn.svg",
+      "category": "Services",
+      "issuer": [
+        "openvpn"
+      ]
+    },
+    {
+      "name": "Opera",
+      "filename": "icons/opera.svg",
+      "category": "Services",
+      "issuer": [
+        "opera"
+      ]
+    },
+    {
+      "name": "OPNsense",
+      "filename": "icons/opnsense.svg",
+      "category": "Services",
+      "issuer": [
+        "opnsense"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "filename": "icons/oracle.svg",
+      "category": "Services",
+      "issuer": [
+        "oracle"
+      ]
+    },
+    {
+      "name": "ORCID",
+      "filename": "icons/orcid.svg",
+      "category": "Services",
+      "issuer": [
+        "orcid"
+      ]
+    },
+    {
+      "name": "OVH",
+      "filename": "icons/ovh.svg",
+      "category": "Services",
+      "issuer": [
+        "ovh"
+      ]
+    },
+    {
+      "name": "Packagist",
+      "filename": "icons/packagist.svg",
+      "category": "Services",
+      "issuer": [
+        "packagist"
+      ]
+    },
+    {
+      "name": "Paddle",
+      "filename": "icons/paddle.svg",
+      "category": "Services",
+      "issuer": [
+        "paddle"
+      ]
+    },
+    {
+      "name": "Palo Alto Networks",
+      "filename": "icons/palo-alto-networks.svg",
+      "category": "Services",
+      "issuer": [
+        "palo-alto-networks"
+      ]
+    },
+    {
+      "name": "Paperless-ngx",
+      "filename": "icons/paperless-ngx.svg",
+      "category": "Services",
+      "issuer": [
+        "paperless-ngx"
+      ]
+    },
+    {
+      "name": "Patreon",
+      "filename": "icons/patreon.svg",
+      "category": "Services",
+      "issuer": [
+        "patreon"
+      ]
+    },
+    {
+      "name": "PeerTube",
+      "filename": "icons/peertube.svg",
+      "category": "Services",
+      "issuer": [
+        "peertube"
+      ]
+    },
+    {
+      "name": "phpMyAdmin",
+      "filename": "icons/phpmyadmin.svg",
+      "category": "Services",
+      "issuer": [
+        "phpmyadmin"
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "filename": "icons/pinterest.svg",
+      "category": "Services",
+      "issuer": [
+        "pinterest"
+      ]
+    },
+    {
+      "name": "Pixelfed",
+      "filename": "icons/pixelfed.svg",
+      "category": "Services",
+      "issuer": [
+        "pixelfed"
+      ]
+    },
+    {
+      "name": "Pixiv",
+      "filename": "icons/pixiv.svg",
+      "category": "Services",
+      "issuer": [
+        "pixiv"
+      ]
+    },
+    {
+      "name": "PlanetScale",
+      "filename": "icons/planetscale.svg",
+      "category": "Services",
+      "issuer": [
+        "planetscale"
+      ]
+    },
+    {
+      "name": "Planning Center",
+      "filename": "icons/planning-center.svg",
+      "category": "Services",
+      "issuer": [
+        "planning-center"
+      ]
+    },
+    {
+      "name": "PlayStation",
+      "filename": "icons/playstation.svg",
+      "category": "Services",
+      "issuer": [
+        "playstation"
+      ]
+    },
+    {
+      "name": "Pleroma",
+      "filename": "icons/pleroma.svg",
+      "category": "Services",
+      "issuer": [
+        "pleroma"
+      ]
+    },
+    {
+      "name": "Plex",
+      "filename": "icons/plex.svg",
+      "category": "Services",
+      "issuer": [
+        "plex"
+      ]
+    },
+    {
+      "name": "Pluralsight",
+      "filename": "icons/pluralsight.svg",
+      "category": "Services",
+      "issuer": [
+        "pluralsight"
+      ]
+    },
+    {
+      "name": "Porkbun",
+      "filename": "icons/porkbun.svg",
+      "category": "Services",
+      "issuer": [
+        "porkbun"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "filename": "icons/postgresql.svg",
+      "category": "Services",
+      "issuer": [
+        "postgresql"
+      ]
+    },
+    {
+      "name": "Postman",
+      "filename": "icons/postman.svg",
+      "category": "Services",
+      "issuer": [
+        "postman"
+      ]
+    },
+    {
+      "name": "Postmark",
+      "filename": "icons/postmark.svg",
+      "category": "Services",
+      "issuer": [
+        "postmark"
+      ]
+    },
+    {
+      "name": "Private Internet Access",
+      "filename": "icons/private-internet-access.svg",
+      "category": "Services",
+      "issuer": [
+        "private-internet-access"
+      ]
+    },
+    {
+      "name": "Proton",
+      "filename": "icons/proton.svg",
+      "category": "Services",
+      "issuer": [
+        "proton"
+      ]
+    },
+    {
+      "name": "Proxmox",
+      "filename": "icons/proxmox.svg",
+      "category": "Services",
+      "issuer": [
+        "proxmox"
+      ]
+    },
+    {
+      "name": "Prusa",
+      "filename": "icons/prusa.svg",
+      "category": "Services",
+      "issuer": [
+        "prusa"
+      ]
+    },
+    {
+      "name": "Pterodactyl",
+      "filename": "icons/pterodactyl.svg",
+      "category": "Services",
+      "issuer": [
+        "pterodactyl"
+      ]
+    },
+    {
+      "name": "Purelymail",
+      "filename": "icons/purelymail.svg",
+      "category": "Services",
+      "issuer": [
+        "purelymail"
+      ]
+    },
+    {
+      "name": "Pushover",
+      "filename": "icons/pushover.svg",
+      "category": "Services",
+      "issuer": [
+        "pushover"
+      ]
+    },
+    {
+      "name": "PythonAnywhere",
+      "filename": "icons/pythonanywhere.svg",
+      "category": "Services",
+      "issuer": [
+        "pythonanywhere"
+      ]
+    },
+    {
+      "name": "Qantas",
+      "filename": "icons/qantas.svg",
+      "category": "Services",
+      "issuer": [
+        "qantas"
+      ]
+    },
+    {
+      "name": "Qiita",
+      "filename": "icons/qiita.svg",
+      "category": "Services",
+      "issuer": [
+        "qiita"
+      ]
+    },
+    {
+      "name": "QNAP",
+      "filename": "icons/qnap.svg",
+      "category": "Services",
+      "issuer": [
+        "qnap"
+      ]
+    },
+    {
+      "name": "Qt",
+      "filename": "icons/qt.svg",
+      "category": "Services",
+      "issuer": [
+        "qt"
+      ]
+    },
+    {
+      "name": "Qualys",
+      "filename": "icons/qualys.svg",
+      "category": "Services",
+      "issuer": [
+        "qualys"
+      ]
+    },
+    {
+      "name": "Railway",
+      "filename": "icons/railway.svg",
+      "category": "Services",
+      "issuer": [
+        "railway"
+      ]
+    },
+    {
+      "name": "Raindrop.io",
+      "filename": "icons/raindrop-io.svg",
+      "category": "Services",
+      "issuer": [
+        "raindrop-io"
+      ]
+    },
+    {
+      "name": "Rakuten",
+      "filename": "icons/rakuten.svg",
+      "category": "Services",
+      "issuer": [
+        "rakuten"
+      ]
+    },
+    {
+      "name": "Razer",
+      "filename": "icons/razer.svg",
+      "category": "Services",
+      "issuer": [
+        "razer"
+      ]
+    },
+    {
+      "name": "Real-Debrid",
+      "filename": "icons/real-debrid.svg",
+      "category": "Services",
+      "issuer": [
+        "real-debrid"
+      ]
+    },
+    {
+      "name": "Red Hat",
+      "filename": "icons/red-hat.svg",
+      "category": "Services",
+      "issuer": [
+        "red-hat"
+      ]
+    },
+    {
+      "name": "Reddit",
+      "filename": "icons/reddit.svg",
+      "category": "Services",
+      "issuer": [
+        "reddit"
+      ]
+    },
+    {
+      "name": "Render",
+      "filename": "icons/render.svg",
+      "category": "Services",
+      "issuer": [
+        "render"
+      ]
+    },
+    {
+      "name": "Revolt",
+      "filename": "icons/revolt.svg",
+      "category": "Services",
+      "issuer": [
+        "revolt"
+      ]
+    },
+    {
+      "name": "Ring",
+      "filename": "icons/ring.svg",
+      "category": "Services",
+      "issuer": [
+        "ring"
+      ]
+    },
+    {
+      "name": "Robinhood",
+      "filename": "icons/robinhood.svg",
+      "category": "Services",
+      "issuer": [
+        "robinhood"
+      ]
+    },
+    {
+      "name": "Roblox",
+      "filename": "icons/roblox.svg",
+      "category": "Services",
+      "issuer": [
+        "roblox"
+      ]
+    },
+    {
+      "name": "Rocket.Chat",
+      "filename": "icons/rocket-chat.svg",
+      "category": "Services",
+      "issuer": [
+        "rocket-chat"
+      ]
+    },
+    {
+      "name": "Rockstar Games",
+      "filename": "icons/rockstar-games.svg",
+      "category": "Services",
+      "issuer": [
+        "rockstar-games"
+      ]
+    },
+    {
+      "name": "Roundcube",
+      "filename": "icons/roundcube.svg",
+      "category": "Services",
+      "issuer": [
+        "roundcube"
+      ]
+    },
+    {
+      "name": "Salesforce",
+      "filename": "icons/salesforce.svg",
+      "category": "Services",
+      "issuer": [
+        "salesforce"
+      ]
+    },
+    {
+      "name": "Samsung",
+      "filename": "icons/samsung.svg",
+      "category": "Services",
+      "issuer": [
+        "samsung"
+      ]
+    },
+    {
+      "name": "SAP",
+      "filename": "icons/sap.svg",
+      "category": "Services",
+      "issuer": [
+        "sap"
+      ]
+    },
+    {
+      "name": "Scaleway",
+      "filename": "icons/scaleway.svg",
+      "category": "Services",
+      "issuer": [
+        "scaleway"
+      ]
+    },
+    {
+      "name": "Seafile",
+      "filename": "icons/seafile.svg",
+      "category": "Services",
+      "issuer": [
+        "seafile"
+      ]
+    },
+    {
+      "name": "SeatGeek",
+      "filename": "icons/seatgeek.svg",
+      "category": "Services",
+      "issuer": [
+        "seatgeek"
+      ]
+    },
+    {
+      "name": "Segment",
+      "filename": "icons/segment.svg",
+      "category": "Services",
+      "issuer": [
+        "segment"
+      ]
+    },
+    {
+      "name": "SendGrid",
+      "filename": "icons/sendgrid.svg",
+      "category": "Services",
+      "issuer": [
+        "sendgrid"
+      ]
+    },
+    {
+      "name": "SentinelOne",
+      "filename": "icons/sentinelone.svg",
+      "category": "Services",
+      "issuer": [
+        "sentinelone"
+      ]
+    },
+    {
+      "name": "Sentry",
+      "filename": "icons/sentry.svg",
+      "category": "Services",
+      "issuer": [
+        "sentry"
+      ]
+    },
+    {
+      "name": "Shopee",
+      "filename": "icons/shopee.svg",
+      "category": "Services",
+      "issuer": [
+        "shopee"
+      ]
+    },
+    {
+      "name": "Shopify",
+      "filename": "icons/shopify.svg",
+      "category": "Services",
+      "issuer": [
+        "shopify"
+      ]
+    },
+    {
+      "name": "Shortcut",
+      "filename": "icons/shortcut.svg",
+      "category": "Services",
+      "issuer": [
+        "shortcut"
+      ]
+    },
+    {
+      "name": "SimpleLogin",
+      "filename": "icons/simplelogin.svg",
+      "category": "Services",
+      "issuer": [
+        "simplelogin"
+      ]
+    },
+    {
+      "name": "Slack",
+      "filename": "icons/slack.svg",
+      "category": "Services",
+      "issuer": [
+        "slack"
+      ]
+    },
+    {
+      "name": "Snapchat",
+      "filename": "icons/snapchat.svg",
+      "category": "Services",
+      "issuer": [
+        "snapchat"
+      ]
+    },
+    {
+      "name": "SOGo",
+      "filename": "icons/sogo.svg",
+      "category": "Services",
+      "issuer": [
+        "sogo"
+      ]
+    },
+    {
+      "name": "Sony",
+      "filename": "icons/sony.svg",
+      "category": "Services",
+      "issuer": [
+        "sony"
+      ]
+    },
+    {
+      "name": "Sophos",
+      "filename": "icons/sophos.svg",
+      "category": "Services",
+      "issuer": [
+        "sophos"
+      ]
+    },
+    {
+      "name": "SourceForge",
+      "filename": "icons/sourceforge.svg",
+      "category": "Services",
+      "issuer": [
+        "sourceforge"
+      ]
+    },
+    {
+      "name": "sourcehut",
+      "filename": "icons/sourcehut.svg",
+      "category": "Services",
+      "issuer": [
+        "sourcehut"
+      ]
+    },
+    {
+      "name": "Spaceship",
+      "filename": "icons/spaceship.svg",
+      "category": "Services",
+      "issuer": [
+        "spaceship"
+      ]
+    },
+    {
+      "name": "SpeedyPage",
+      "filename": "icons/speedypage.svg",
+      "category": "Services",
+      "issuer": [
+        "speedypage"
+      ]
+    },
+    {
+      "name": "Spring",
+      "filename": "icons/spring.svg",
+      "category": "Services",
+      "issuer": [
+        "spring"
+      ]
+    },
+    {
+      "name": "Square Enix",
+      "filename": "icons/square-enix.svg",
+      "category": "Services",
+      "issuer": [
+        "square-enix"
+      ]
+    },
+    {
+      "name": "Square",
+      "filename": "icons/square.svg",
+      "category": "Services",
+      "issuer": [
+        "square"
+      ]
+    },
+    {
+      "name": "Squarespace",
+      "filename": "icons/squarespace.svg",
+      "category": "Services",
+      "issuer": [
+        "squarespace"
+      ]
+    },
+    {
+      "name": "Standard Notes",
+      "filename": "icons/standard-notes.svg",
+      "category": "Services",
+      "issuer": [
+        "standard-notes"
+      ]
+    },
+    {
+      "name": "Steam",
+      "filename": "icons/steam.svg",
+      "category": "Services",
+      "issuer": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Stoat",
+      "filename": "icons/stoat.svg",
+      "category": "Services",
+      "issuer": [
+        "stoat"
+      ]
+    },
+    {
+      "name": "Storj",
+      "filename": "icons/storj.svg",
+      "category": "Services",
+      "issuer": [
+        "storj"
+      ]
+    },
+    {
+      "name": "Stripe",
+      "filename": "icons/stripe.svg",
+      "category": "Services",
+      "issuer": [
+        "stripe"
+      ]
+    },
+    {
+      "name": "Substack",
+      "filename": "icons/substack.svg",
+      "category": "Services",
+      "issuer": [
+        "substack"
+      ]
+    },
+    {
+      "name": "SumoLogic",
+      "filename": "icons/sumologic.svg",
+      "category": "Services",
+      "issuer": [
+        "sumologic"
+      ]
+    },
+    {
+      "name": "Surfshark",
+      "filename": "icons/surfshark.svg",
+      "category": "Services",
+      "issuer": [
+        "surfshark"
+      ]
+    },
+    {
+      "name": "Synology",
+      "filename": "icons/synology.svg",
+      "category": "Services",
+      "issuer": [
+        "synology"
+      ]
+    },
+    {
+      "name": "System76",
+      "filename": "icons/system76.svg",
+      "category": "Services",
+      "issuer": [
+        "system76"
+      ]
+    },
+    {
+      "name": "T-Mobile",
+      "filename": "icons/t-mobile.svg",
+      "category": "Services",
+      "issuer": [
+        "t-mobile"
+      ]
+    },
+    {
+      "name": "TeamViewer",
+      "filename": "icons/teamviewer.svg",
+      "category": "Services",
+      "issuer": [
+        "teamviewer"
+      ]
+    },
+    {
+      "name": "Teleport",
+      "filename": "icons/teleport.svg",
+      "category": "Services",
+      "issuer": [
+        "teleport"
+      ]
+    },
+    {
+      "name": "Termius",
+      "filename": "icons/termius.svg",
+      "category": "Services",
+      "issuer": [
+        "termius"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "filename": "icons/terraform.svg",
+      "category": "Services",
+      "issuer": [
+        "terraform"
+      ]
+    },
+    {
+      "name": "Tesla",
+      "filename": "icons/tesla.svg",
+      "category": "Services",
+      "issuer": [
+        "tesla"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "filename": "icons/tiktok.svg",
+      "category": "Services",
+      "issuer": [
+        "tiktok"
+      ]
+    },
+    {
+      "name": "Tiny Tiny RSS",
+      "filename": "icons/tiny-tiny-rss.svg",
+      "category": "Services",
+      "issuer": [
+        "tiny-tiny-rss"
+      ]
+    },
+    {
+      "name": "Todoist",
+      "filename": "icons/todoist.svg",
+      "category": "Services",
+      "issuer": [
+        "todoist"
+      ]
+    },
+    {
+      "name": "Tolgee",
+      "filename": "icons/tolgee.svg",
+      "category": "Services",
+      "issuer": [
+        "tolgee"
+      ]
+    },
+    {
+      "name": "TP-Link",
+      "filename": "icons/tp-link.svg",
+      "category": "Services",
+      "issuer": [
+        "tp-link"
+      ]
+    },
+    {
+      "name": "Trello",
+      "filename": "icons/trello.svg",
+      "category": "Services",
+      "issuer": [
+        "trello"
+      ]
+    },
+    {
+      "name": "Tresorit",
+      "filename": "icons/tresorit.svg",
+      "category": "Services",
+      "issuer": [
+        "tresorit"
+      ]
+    },
+    {
+      "name": "Trimble",
+      "filename": "icons/trimble.svg",
+      "category": "Services",
+      "issuer": [
+        "trimble"
+      ]
+    },
+    {
+      "name": "TrueNAS",
+      "filename": "icons/truenas.svg",
+      "category": "Services",
+      "issuer": [
+        "truenas"
+      ]
+    },
+    {
+      "name": "TryHackMe",
+      "filename": "icons/tryhackme.svg",
+      "category": "Services",
+      "issuer": [
+        "tryhackme"
+      ]
+    },
+    {
+      "name": "Tumblr",
+      "filename": "icons/tumblr.svg",
+      "category": "Services",
+      "issuer": [
+        "tumblr"
+      ]
+    },
+    {
+      "name": "Turso",
+      "filename": "icons/turso.svg",
+      "category": "Services",
+      "issuer": [
+        "turso"
+      ]
+    },
+    {
+      "name": "Tuta",
+      "filename": "icons/tuta.svg",
+      "category": "Services",
+      "issuer": [
+        "tuta"
+      ]
+    },
+    {
+      "name": "Twilio",
+      "filename": "icons/twilio.svg",
+      "category": "Services",
+      "issuer": [
+        "twilio"
+      ]
+    },
+    {
+      "name": "Twitch",
+      "filename": "icons/twitch.svg",
+      "category": "Services",
+      "issuer": [
+        "twitch"
+      ]
+    },
+    {
+      "name": "Twitter",
+      "filename": "icons/twitter.svg",
+      "category": "Services",
+      "issuer": [
+        "twitter"
+      ]
+    },
+    {
+      "name": "Uber",
+      "filename": "icons/uber.svg",
+      "category": "Services",
+      "issuer": [
+        "uber"
+      ]
+    },
+    {
+      "name": "Ubiquiti",
+      "filename": "icons/ubiquiti.svg",
+      "category": "Services",
+      "issuer": [
+        "ubiquiti"
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "filename": "icons/ubisoft.svg",
+      "category": "Services",
+      "issuer": [
+        "ubisoft"
+      ]
+    },
+    {
+      "name": "Ubuntu",
+      "filename": "icons/ubuntu.svg",
+      "category": "Services",
+      "issuer": [
+        "ubuntu"
+      ]
+    },
+    {
+      "name": "Unity",
+      "filename": "icons/unity.svg",
+      "category": "Services",
+      "issuer": [
+        "unity"
+      ]
+    },
+    {
+      "name": "Unraid",
+      "filename": "icons/unraid.svg",
+      "category": "Services",
+      "issuer": [
+        "unraid"
+      ]
+    },
+    {
+      "name": "UpCloud",
+      "filename": "icons/upcloud.svg",
+      "category": "Services",
+      "issuer": [
+        "upcloud"
+      ]
+    },
+    {
+      "name": "Uphold",
+      "filename": "icons/uphold.svg",
+      "category": "Services",
+      "issuer": [
+        "uphold"
+      ]
+    },
+    {
+      "name": "Uptime Kuma",
+      "filename": "icons/uptime-kuma.svg",
+      "category": "Services",
+      "issuer": [
+        "uptime-kuma"
+      ]
+    },
+    {
+      "name": "UptimeRobot",
+      "filename": "icons/uptimerobot.svg",
+      "category": "Services",
+      "issuer": [
+        "uptimerobot"
+      ]
+    },
+    {
+      "name": "Upwork",
+      "filename": "icons/upwork.svg",
+      "category": "Services",
+      "issuer": [
+        "upwork"
+      ]
+    },
+    {
+      "name": "V2EX",
+      "filename": "icons/v2ex.svg",
+      "category": "Services",
+      "issuer": [
+        "v2ex"
+      ]
+    },
+    {
+      "name": "Vaultwarden",
+      "filename": "icons/vaultwarden.svg",
+      "category": "Services",
+      "issuer": [
+        "vaultwarden"
+      ]
+    },
+    {
+      "name": "Vimeo",
+      "filename": "icons/vimeo.svg",
+      "category": "Services",
+      "issuer": [
+        "vimeo"
+      ]
+    },
+    {
+      "name": "VirusTotal",
+      "filename": "icons/virustotal.svg",
+      "category": "Services",
+      "issuer": [
+        "virustotal"
+      ]
+    },
+    {
+      "name": "Vivaldi",
+      "filename": "icons/vivaldi.svg",
+      "category": "Services",
+      "issuer": [
+        "vivaldi"
+      ]
+    },
+    {
+      "name": "VK",
+      "filename": "icons/vk.svg",
+      "category": "Services",
+      "issuer": [
+        "vk"
+      ]
+    },
+    {
+      "name": "VMWare",
+      "filename": "icons/vmware.svg",
+      "category": "Services",
+      "issuer": [
+        "vmware"
+      ]
+    },
+    {
+      "name": "Vodafone",
+      "filename": "icons/vodafone.svg",
+      "category": "Services",
+      "issuer": [
+        "vodafone"
+      ]
+    },
+    {
+      "name": "VRChat",
+      "filename": "icons/vrchat.svg",
+      "category": "Services",
+      "issuer": [
+        "vrchat"
+      ]
+    },
+    {
+      "name": "Vultr",
+      "filename": "icons/vultr.svg",
+      "category": "Services",
+      "issuer": [
+        "vultr"
+      ]
+    },
+    {
+      "name": "Wallabag",
+      "filename": "icons/wallabag.svg",
+      "category": "Services",
+      "issuer": [
+        "wallabag"
+      ]
+    },
+    {
+      "name": "Wasabi",
+      "filename": "icons/wasabi.svg",
+      "category": "Services",
+      "issuer": [
+        "wasabi"
+      ]
+    },
+    {
+      "name": "WEB.DE",
+      "filename": "icons/web-de.svg",
+      "category": "Services",
+      "issuer": [
+        "web-de"
+      ]
+    },
+    {
+      "name": "Webflow",
+      "filename": "icons/webflow.svg",
+      "category": "Services",
+      "issuer": [
+        "webflow"
+      ]
+    },
+    {
+      "name": "Webmin",
+      "filename": "icons/webmin.svg",
+      "category": "Services",
+      "issuer": [
+        "webmin"
+      ]
+    },
+    {
+      "name": "Wellfound",
+      "filename": "icons/wellfound.svg",
+      "category": "Services",
+      "issuer": [
+        "wellfound"
+      ]
+    },
+    {
+      "name": "WeTransfer",
+      "filename": "icons/wetransfer.svg",
+      "category": "Services",
+      "issuer": [
+        "wetransfer"
+      ]
+    },
+    {
+      "name": "Wikipedia",
+      "filename": "icons/wikipedia.svg",
+      "category": "Services",
+      "issuer": [
+        "wikipedia"
+      ]
+    },
+    {
+      "name": "Wise",
+      "filename": "icons/wise.svg",
+      "category": "Services",
+      "issuer": [
+        "wise"
+      ]
+    },
+    {
+      "name": "Wix",
+      "filename": "icons/wix.svg",
+      "category": "Services",
+      "issuer": [
+        "wix"
+      ]
+    },
+    {
+      "name": "Wordpress",
+      "filename": "icons/wordpress.svg",
+      "category": "Services",
+      "issuer": [
+        "wordpress"
+      ]
+    },
+    {
+      "name": "WP Engine",
+      "filename": "icons/wp-engine.svg",
+      "category": "Services",
+      "issuer": [
+        "wp-engine"
+      ]
+    },
+    {
+      "name": "Wyze",
+      "filename": "icons/wyze.svg",
+      "category": "Services",
+      "issuer": [
+        "wyze"
+      ]
+    },
+    {
+      "name": "XDA Developers",
+      "filename": "icons/xda-developers.svg",
+      "category": "Services",
+      "issuer": [
+        "xda-developers"
+      ]
+    },
+    {
+      "name": "Xendit",
+      "filename": "icons/xendit.svg",
+      "category": "Services",
+      "issuer": [
+        "xendit"
+      ]
+    },
+    {
+      "name": "Xero",
+      "filename": "icons/xero.svg",
+      "category": "Services",
+      "issuer": [
+        "xero"
+      ]
+    },
+    {
+      "name": "Xiaomi",
+      "filename": "icons/xiaomi.svg",
+      "category": "Services",
+      "issuer": [
+        "xiaomi"
+      ]
+    },
+    {
+      "name": "Xing",
+      "filename": "icons/xing.svg",
+      "category": "Services",
+      "issuer": [
+        "xing"
+      ]
+    },
+    {
+      "name": "XSplit",
+      "filename": "icons/xsplit.svg",
+      "category": "Services",
+      "issuer": [
+        "xsplit"
+      ]
+    },
+    {
+      "name": "Yahoo",
+      "filename": "icons/yahoo.svg",
+      "category": "Services",
+      "issuer": [
+        "yahoo"
+      ]
+    },
+    {
+      "name": "Yandex",
+      "filename": "icons/yandex.svg",
+      "category": "Services",
+      "issuer": [
+        "yandex"
+      ]
+    },
+    {
+      "name": "Zammad",
+      "filename": "icons/zammad.svg",
+      "category": "Services",
+      "issuer": [
+        "zammad"
+      ]
+    },
+    {
+      "name": "Zapier",
+      "filename": "icons/zapier.svg",
+      "category": "Services",
+      "issuer": [
+        "zapier"
+      ]
+    },
+    {
+      "name": "Zendesk",
+      "filename": "icons/zendesk.svg",
+      "category": "Services",
+      "issuer": [
+        "zendesk"
+      ]
+    },
+    {
+      "name": "Zerodha",
+      "filename": "icons/zerodha.svg",
+      "category": "Services",
+      "issuer": [
+        "zerodha"
+      ]
+    },
+    {
+      "name": "ZeroTier",
+      "filename": "icons/zerotier.svg",
+      "category": "Services",
+      "issuer": [
+        "zerotier"
+      ]
+    },
+    {
+      "name": "Zoho",
+      "filename": "icons/zoho.svg",
+      "category": "Services",
+      "issuer": [
+        "zoho"
+      ]
+    },
+    {
+      "name": "Zoom",
+      "filename": "icons/zoom.svg",
+      "category": "Services",
+      "issuer": [
+        "zoom"
+      ]
+    }
+  ]
+}
